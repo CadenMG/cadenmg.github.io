@@ -1,3 +1,0 @@
-[submodule "themes/noteworthy"] 
-  path = themes/noteworthy 
-  url = git://https://github.com/kimcc/hugo-theme-noteworthy
