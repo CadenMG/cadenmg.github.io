@@ -1,6 +1,7 @@
 baseURL = "https://cadenmg.github.io/"
 languageCode = "en-us"
 title = "Personal Blog"
+theme = "noteworthy"
 enableRobotsTXT = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 10 # Configure how long the post summary should be on the homepage.
