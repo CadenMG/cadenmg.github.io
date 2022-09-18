@@ -16,7 +16,7 @@ disqusShortname = ""
   tag = "tags"
 
 [author]
-	name = "jlumbroso"
+	name = "Caden"
 
 # Set to false to disallow raw HTML in markdown files
 [markup.goldmark.renderer]
@@ -34,6 +34,7 @@ disqusShortname = ""
     showReadMore = false
 
     # Set enableKofi to true to enable the Ko-fi support button. Add your Ko-fi ID to link to your account.
+    # todo: set this up
     enableKofi = false
     kofi = ""
 
